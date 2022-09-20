@@ -1,0 +1,9 @@
+designing a food recipe to search up foods that we want to eat
+
+using react app
+
+1. run npx create-react-app "name"
+
+2. going to have to pull recipe information from somewhere. using an API - EDAMAM, can only make 10 requests per minute
+
+3. 
